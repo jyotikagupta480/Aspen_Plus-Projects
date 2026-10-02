@@ -9,8 +9,8 @@ This project features a chemical process simulation developed in Aspen Plus to m
 * **Property Method:** [e.g., Peng-Robinson]
 
 **Key Objectives & Results**
-* Successfully simulated the separation of ethane and ethylene to achieve a product purity of [Insert %]%.
-* Optimized column parameters including a reflux ratio of [Insert number] and [Insert number] theoretical stages.
+* Successfully simulated the separation of ethane and ethylene to achieve a product purity .
+* Optimized column parameters including a reflux ratio at theoretical stages.
 * Analyzed temperature and composition profiles to ensure energy efficiency and separation feasibility.
 
 **Repository Contents**
